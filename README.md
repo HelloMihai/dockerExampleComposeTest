@@ -8,7 +8,7 @@
 1. git clone git@github.com:HelloMihai/dockerExampleComposeTest.git
 1. $ cd dockerExampleComposeTest
 1. $ docker compose up
-1. get url from PWD site ![Pasted Graphic 2](https://github.com/HelloMihai/dockerExampleComposeTest/assets/8506019/02d95e86-cd95-4890-8775-4cb3460f6892)
+1. get url from PWD site ![image](https://github.com/HelloMihai/dockerExampleComposeTest/assets/8506019/ccef78da-de44-416d-8d06-33d728e6f748)
 1. Exit ssh
     1. $ exit
 
