@@ -1,9 +1,9 @@
 # Example of quick running site in docker
 
 ### commands
-1. open PWD https://labs.play-with-docker.com 
+1. open PWD site https://labs.play-with-docker.com 
 1. Click [+ add new instance]
-1. Connect with local terminal
+1. Connect with local terminal (link in PWD)
     1. Example $ ssh ip172-18-0-62-asdfasdfasdf@direct.labs.play-with-docker.com
 1. git clone git@github.com:HelloMihai/dockerExampleComposeTest.git
 1. $ cd dockerExampleComposeTest
