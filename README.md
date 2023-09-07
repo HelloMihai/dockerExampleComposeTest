@@ -1,5 +1,7 @@
-# Example of quick running site in docker
+# Example
+## of quick running site in docker
 
+### commands
 1. open PWD https://labs.play-with-docker.com 
 1. Click [+ add new instance]
 1. Connect with local terminal
